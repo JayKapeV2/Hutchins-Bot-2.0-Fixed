@@ -1,16 +1,16 @@
 {
-  "prefix": "!",
+  "prefix": "-",
   "adminUIDs": [
-   "your uid"
+    "61552691907450"
   ],
   "moderatorUIDs": [
-    "your uid",
+    "61552691907450",
     "",
     ""
   ],
-  "botName": "bot name",
-  "ownerName": "Your name",
-  "facebookLink": "fb link",
+  "botName": "Jay Upgraded",
+  "ownerName": "Jay Ar",
+  "facebookLink": "www.faceboook.com/JayCantFinddd",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
